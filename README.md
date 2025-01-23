@@ -3,17 +3,17 @@
 _Este dashboard es un proyecto personal desarrollado para profundizar mis conocimientos en la creación de interfaces de usuario interactivas y dinámicas, utilizando exclusivamente HTML ,CSS y JS._
 
 # 1800px
-<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/1800px.jpeg" align='left' width='480px'>
-<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/1800px-2.jpeg" align='' width='480px'>
+<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/1800px.jpeg" align='left' width='400px'>
+<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/1800px-2.jpeg" align='' width='400px'>
 
 # 1200px
-<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/1200px.jpeg" align='left' width='488px'>
-<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/1200px-2.jpeg" align='' width='480px'>
+<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/1200px.jpeg" align='left' width='400px'>
+<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/1200px-2.jpeg" align='' width='400px'>
 
 
 # 768px
-<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/768px.jpeg" align='left' width='480px'>
-<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/768px-2.jpeg" align='' width='480px'>
+<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/768px.jpeg" align='left' width='400px'>
+<img src="https://github.com/Wismanu/Dashboard-1/blob/main/img/768px-2.jpeg" align='' width='400px'>
 
 
 ## Comenzando 🚀
